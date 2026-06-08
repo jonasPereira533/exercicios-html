@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f42afd6-5024-4090-958b-6f728433d334" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex007/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex008/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1780584939045</updated>
       <workItem from="1780584941444" duration="7328000" />
-      <workItem from="1780957551177" duration="2276000" />
+      <workItem from="1780957551177" duration="3332000" />
     </task>
     <task id="LOCAL-00001" summary="adicionando simbolos">
       <option name="closed" value="true" />
