@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f42afd6-5024-4090-958b-6f728433d334" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Desafios/Desafio 02/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex011/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/Desafio 01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/Desafio 01/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +98,7 @@
       <workItem from="1781131155458" duration="33000" />
       <workItem from="1781173359579" duration="7136000" />
       <workItem from="1781688494480" duration="7331000" />
-      <workItem from="1781736170160" duration="1173000" />
+      <workItem from="1781736170160" duration="2610000" />
     </task>
     <task id="LOCAL-00001" summary="adicionando simbolos">
       <option name="closed" value="true" />
