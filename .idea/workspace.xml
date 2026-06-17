@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f42afd6-5024-4090-958b-6f728433d334" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/front-end.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/front-end.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex009/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ex009/index.html" afterDir="false" />
     </list>
@@ -14,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="20" />
+    <option name="cachedIndexableFilesCount" value="345" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -70,8 +71,16 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlserver.localdb"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -90,7 +99,8 @@
       <workItem from="1780584941444" duration="7328000" />
       <workItem from="1780957551177" duration="4781000" />
       <workItem from="1781131155458" duration="33000" />
-      <workItem from="1781173359579" duration="4281000" />
+      <workItem from="1781173359579" duration="7136000" />
+      <workItem from="1781688494480" duration="1483000" />
     </task>
     <task id="LOCAL-00001" summary="adicionando simbolos">
       <option name="closed" value="true" />
