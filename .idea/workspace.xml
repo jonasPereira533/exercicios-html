@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f42afd6-5024-4090-958b-6f728433d334" name="Changes" comment="" />
+    <list default="true" id="1f42afd6-5024-4090-958b-6f728433d334" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Desafio 03/curso-GitHub.html" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/Desafio 03/curso-GitHub.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Desafio 03/curso-HTML-CSS.html" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/Desafio 03/curso-HTML-CSS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Desafio 03/curso-MySQL.html" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/Desafio 03/curso-MySQL.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +104,7 @@
       <workItem from="1781173359579" duration="7136000" />
       <workItem from="1781688494480" duration="7331000" />
       <workItem from="1781736170160" duration="2948000" />
-      <workItem from="1781775713875" duration="6073000" />
+      <workItem from="1781775713875" duration="6739000" />
     </task>
     <task id="LOCAL-00001" summary="adicionando simbolos">
       <option name="closed" value="true" />
