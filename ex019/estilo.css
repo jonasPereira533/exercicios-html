@@ -5,7 +5,7 @@
     em HTML é class = em CSS é .
  */
 body{
-    background-color: #7fecff;
+    background-color: rgb(163 163 246 / 0.66);
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -19,6 +19,22 @@ h2 {
 
 h1#principal {
     text-align: center;
-    background-color: #0b0fe6;
-    color: white;
+    background-color: rgb(11 15 230 / 0.26);
+    color: black;
+}
+
+.basico{
+    color: #4e9b54;
+}
+
+.intermediario {
+    color: rgb(66 66 237 / 0.4);
+}
+
+.avancado {
+    color: #f67270;
+}
+
+.destaque {
+    background-color: #f65070;
 }
