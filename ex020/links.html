@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Personalizando Links</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        a {
+            color: #ff0000;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:visited {
+            color: #560000;
+        }
+
+        a:hover {
+            color: #101010;
+            text-decoration: underline;
+        }
+        a:active {
+            color: #fffb00;
+        }
+        a::after {
+            content: '[link] ';
+            text-decoration: none;
+            font-weight: bold;
+            color: #777676;
+        }
+
+        .especial::before {
+            content: '[link] ';
+            text-decoration: none;
+            font-weight: bold;
+            color: #fb5a5a;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Personalizando Links</h1>
+    <ul>
+        <li><a href="https://github.com/jonasPereira533" target="_blank">Repositório do GitHub</a></li>
+        <li><a href="https://www.instagram.com/jonas_pereirasilva/?hl=en" target="_blank" class="especial">Instagram</a></li>
+        <li><a href="https://www.linkedin.com/in/jonas-pereira-42391a32b/" target="_blank">LinkedIn</a></li>
+    </ul>
+</body>
+</html>
