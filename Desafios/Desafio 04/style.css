@@ -2,11 +2,9 @@
 
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
 
-@font-face {
-    font-family: 'Android';
-    src: url('/fonts/Android.eot');
-}
+
 
 
 :root {
@@ -17,17 +15,26 @@
     --cor4: #00FF89;
 
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
+    --fonte-destaque: 'Orbitron', sans-serif;
 }
 
 
 body{
     background-color: var(--cor2);
+    font-family: var(--fonte-padrao);
 }
 
 header > h1 {
     color: var(--cor0);
+    font-family: var(--fonte-destaque);
 }
 
 main > h1 {
     color: var(--cor0);
+    font-family: var(--fonte-destaque);
+}
+
+main > h2 {
+    color: var(--cor1);
+    font-family: var(--fonte-destaque);
 }
