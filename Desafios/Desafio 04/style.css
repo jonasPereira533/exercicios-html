@@ -65,6 +65,11 @@ nav > a {
     padding: 10px;
     text-decoration: none;
     font-weight: bolder;
+    border-radius: 10px;
+}
+nav > a:hover {
+    background-color: var(--cor3);
+    color: black;
 }
 
 main {
