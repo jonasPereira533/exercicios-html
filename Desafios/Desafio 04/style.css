@@ -29,19 +29,29 @@ body{
     font-family: var(--fontePadrao);
 }
 
+header{
+    background-color: var(--cor4);
+    min-height: 150px;
+    text-align: center;
+    padding-top: 50px;
+}
+
 header > h1 {
     color: white;
     font-family: var(--fonteDestaque);
-    background-color: var(--cor4);
+    margin-bottom: 20px ;
+
 }
 
 header > p {
+    font-family: var(--fontePadrao);
+    font-size: 1.2em;
     color: white;
-    background-color: var(--cor4);
+
 
 }
 
-nav > {
+nav  {
     background-color: var(--cor5);
     color: white;
 }
@@ -58,12 +68,12 @@ main {
     border-bottom-right-radius: 10px;
 }
 
-main > h1 {
+main  h1 {
     color: var(--cor5);
     font-family: var(--fonteDestaque);
 }
 
-main > h2 {
+main  h2 {
     font-family: var(--fonteDestaque);
 }
 main img{
