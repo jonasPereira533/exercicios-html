@@ -12,7 +12,7 @@
     --cor4: #467560;
     --cor3: #8DDDB8;
     --cor2: #2CDBBA;
-    --cor1: #f6d9bf;
+    --cor1: #adadad;
 
     --fontePadrao: Arial, Verdana, Helvetica, sans-serif;
     --fonteDestaque: 'Orbitron', sans-serif;
@@ -30,7 +30,7 @@ body{
 }
 
 header{
-    background-color: var(--cor4);
+    background-image: linear-gradient(to right, var(--cor5), var(--cor4));
     min-height: 150px;
     text-align: center;
     padding-top: 50px;
@@ -39,7 +39,8 @@ header{
 header > h1 {
     color: white;
     font-family: var(--fonteDestaque);
-    margin-bottom: 20px ;
+    font-size: 3em;444444
+    text-shadow: 2px 2px 4px rgb(0 0 0 / 0.47);
 
 }
 
@@ -47,13 +48,23 @@ header > p {
     font-family: var(--fontePadrao);
     font-size: 1.2em;
     color: white;
-
-
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    text-shadow: 2px 2px 4px rgb(0 0 0 / 0.47);
 }
 
 nav  {
-    background-color: var(--cor5);
+    background-image: linear-gradient(to right, var(--cor5), var(--cor4));
+    padding: 10px;
+    box-shadow: 0px 7px 9px rgb(0 0 0 / 0.41);
+}
+
+nav > a {
     color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bolder;
 }
 
 main {
