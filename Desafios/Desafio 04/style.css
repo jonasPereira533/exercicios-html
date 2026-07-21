@@ -8,14 +8,14 @@
 
 
 :root {
-    --cor0: #424242;
-    --cor1: #467560;
-    --cor2: #8DDDB8;
-    --cor3: #2CDBBA;
-    --cor4: #00FF89;
+    --cor5: #424242;
+    --cor4: #467560;
+    --cor3: #8DDDB8;
+    --cor2: #2CDBBA;
+    --cor1: #f6d9bf;
 
-    --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
-    --fonte-destaque: 'Orbitron', sans-serif;
+    --fontePadrao: Arial, Verdana, Helvetica, sans-serif;
+    --fonteDestaque: 'Orbitron', sans-serif;
 }
 
 
@@ -25,38 +25,56 @@
  }
 
 body{
-    background-color: var(--cor2);
-    font-family: var(--fonte-padrao);
+    background-color: var(--cor1);
+    font-family: var(--fontePadrao);
 }
 
 header > h1 {
-    color: var(--cor0);
-    font-family: var(--fonte-destaque);
+    color: white;
+    font-family: var(--fonteDestaque);
+    background-color: var(--cor4);
 }
 
 header > p {
     color: white;
+    background-color: var(--cor4);
+
 }
 
 nav > {
-    background-color: var(--cor0);
+    background-color: var(--cor5);
+    color: white;
 }
 
 main {
+    min-width: 300px;
+    max-width: 1000px;
+    margin: auto;
+    margin-bottom: 30px ;
+    padding: 20px;
     background-color: white;
+    box-shadow: 0px 0px 10px rgb(0 0 0 / 0.55);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 }
 
 main > h1 {
-    color: var(--cor0);
-    font-family: var(--fonte-destaque);
+    color: var(--cor5);
+    font-family: var(--fonteDestaque);
 }
 
 main > h2 {
-    color: var(--cor1);
-    font-family: var(--fonte-destaque);
+    font-family: var(--fonteDestaque);
+}
+main img{
+    width: 100%;
+}
+main img.pequena{
+    width: 30%;
+    display: block;
 }
 
 footer {
-    background-color: var(--cor0);
+    background-color: var(--cor5);
     color: white;
 }
