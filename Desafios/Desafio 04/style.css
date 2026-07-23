@@ -18,7 +18,6 @@
     --fonteDestaque: 'Orbitron', sans-serif;
 }
 
-
  * {
      margin: 0;
      padding: 0;
@@ -27,6 +26,11 @@
 body{
     background-color: var(--cor1);
     font-family: var(--fontePadrao);
+}
+
+main > p {
+    margin: 15px 0px;
+    text-align: justify;
 }
 
 header{
@@ -39,7 +43,7 @@ header{
 header > h1 {
     color: white;
     font-family: var(--fonteDestaque);
-    font-size: 3em;444444
+    font-size: 3em;
     text-shadow: 2px 2px 4px rgb(0 0 0 / 0.47);
 
 }
@@ -92,6 +96,21 @@ main  h1 {
 main  h2 {
     font-family: var(--fonteDestaque);
 }
+
+main  p {
+    margin: 15px 0px;
+    text-align: justify;
+    text-indent: 30px;
+    font-size: 1em;
+    line-height: 1.5em;
+}
+main strong {
+    color: var(--cor5);
+    font-weight: bold;
+    background-color: var(--cor1);
+    padding: 2px 6px;
+}
+
 main img{
     width: 100%;
 }
